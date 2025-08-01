@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/screenshots/social links card.png)
-![](/screenshots/social links card hover.png)
+![](screenshots/social links card.png)
+![](screenshots/social links card hover.png)
 
 ## My process
 
