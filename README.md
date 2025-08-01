@@ -34,10 +34,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 
-### What I learned
-
-I found it especially challenging to build the design without the Figma file. However, I feel that I did a good job doing so. In order to figure out the colors in the design, I imported the design pictures into Microsoft Paint and color picked the colors. It was also difficult deciding what the font's weight and sizing was. I learned how to build the card without using the Figma file.
-
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
